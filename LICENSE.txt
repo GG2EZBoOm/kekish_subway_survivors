@@ -1,0 +1,65 @@
+KEKISH GAMES – PROPRIETÄRE SOFTWARELIZENZ
+Version 1.0, Stand: 4. Oktober 2026
+
+Copyright (c) 2026 Kekish Games. Alle Rechte vorbehalten.
+All rights reserved.
+
+1. Geltungsbereich
+
+Diese Lizenz gilt für die von Kekish Games unter dieser Lizenz bereitgestellten
+eigenen Bestandteile des Projekts Abbild / „Keks, Klabautermänner & Kanonen –
+Die Hanse“, soweit Kekish Games die dafür erforderlichen Rechte innehat.
+Hierzu gehören insbesondere Quellcode, Programme, Spielinhalte, Texte, Grafiken,
+Modelle, Animationen, Musik, Sounds und Dokumentation. Fremde Bestandteile und
+bereits anderweitig eingeräumte Rechte sind nach Ziffer 4 und 5 ausgenommen.
+
+2. Erlaubte Nutzung des Spielclients
+
+Wer einen Spielclient rechtmäßig von Kekish Games oder einem von Kekish Games
+autorisierten Anbieter erhält, erhält ein einfaches, nicht ausschließliches
+Nutzungsrecht, diesen Client auf eigenen Geräten zum persönlichen Spielen zu
+installieren und auszuführen. Die dafür erforderlichen Kopien und
+Sicherungskopien sind erlaubt. Gesondert vereinbarte Zugangs- oder Kaufbedingungen
+bleiben maßgeblich. Diese Lizenz allein gewährt keinen Anspruch auf Zugang zu
+einem Spielserver, auf Updates oder auf die Überlassung des Quellcodes.
+
+3. Vorbehaltene Rechte
+
+Soweit diese Lizenz, eine gesonderte Erlaubnis von Kekish Games oder zwingendes
+Recht es nicht gestattet, ist es untersagt, das Projekt oder seine Bestandteile
+zu vervielfältigen, zu veröffentlichen, weiterzugeben, zu verkaufen, zu vermieten,
+unterzulizenzieren, zu verändern oder für andere Projekte zu verwenden.
+Dies umfasst insbesondere die Weiterverwendung von Quellcode und Assets sowie
+den Betrieb eigener Spielserver. Dafür ist eine vorherige schriftliche
+Erlaubnis von Kekish Games erforderlich.
+
+Urheberrechts-, Lizenz- und Herkunftshinweise dürfen nicht entfernt oder
+verfälscht werden. Rechte an Namen, Logos oder Marken werden durch diese Lizenz
+nicht zusätzlich eingeräumt. Alle nicht ausdrücklich gewährten Rechte bleiben
+den jeweiligen Rechteinhabern vorbehalten.
+
+4. Bestandteile Dritter
+
+Bibliotheken, Werkzeuge, Schriftarten, Assets und sonstige Bestandteile Dritter
+unterliegen ausschließlich ihren jeweiligen Lizenzbedingungen. Diese Lizenz
+ersetzt oder beschränkt deren Bedingungen und Nutzungsrechte nicht. Vorhandene
+Urheberrechts- und Lizenzhinweise dieser Bestandteile sind zu beachten und bei
+einer zulässigen Weitergabe entsprechend deren Bedingungen beizubehalten.
+Dies gilt insbesondere auch für mitgelieferte MIT- und andere freie Lizenzen.
+
+5. Frühere Lizenzierungen und gesonderte Vereinbarungen
+
+Diese Lizenz gilt für die mit ihr bereitgestellte Fassung ab dem oben genannten
+Stand. Rechte, die an früheren Fassungen oder einzelnen Bestandteilen bereits
+wirksam unter der MIT-Lizenz oder einer anderen Lizenz eingeräumt wurden,
+werden hierdurch weder widerrufen noch nachträglich eingeschränkt.
+Gesonderte Vereinbarungen mit Kekish Games bleiben unberührt und gehen dieser
+Lizenz für ihren jeweiligen Regelungsgegenstand vor.
+
+6. Gesetzliche Rechte
+
+Zwingende gesetzliche Rechte bleiben unberührt, insbesondere gesetzlich
+zulässige Sicherungskopien, Untersuchung und Dekompilierung zur Herstellung
+von Interoperabilität sowie zwingende Verbraucher-, Gewährleistungs- und
+Haftungsrechte. Die Beschränkungen dieser Lizenz gelten nur, soweit das
+anwendbare Recht sie zulässt.

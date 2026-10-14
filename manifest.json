@@ -1,0 +1,416 @@
+{
+  "format": "kekish-subway-windows-v1",
+  "platform": "windows-x86_64",
+  "version": "1.0.36",
+  "build_id": "950311683a6bc16a26c8da7e4de6d055ecfd806bbcb251322d5a2545f052b8fa",
+  "files": {
+    "Kekish Subway Survivors.exe": {
+      "bytes": 2325504,
+      "sha256": "6c8832c3ef8762421440770a835a6e72a511e945b316115906e4356f83527660"
+    },
+    "LICENSE.txt": {
+      "bytes": 3403,
+      "sha256": "1c7e850be991a77833425109f9b07c8f28c826a198ff1223e69c82f08bc6c758"
+    },
+    "LIESMICH.txt": {
+      "bytes": 7189,
+      "sha256": "dc4529dddb72942d95fb88a00f563a79b971defa1fcf4fc7c4c1f81dc38884b2"
+    },
+    "Lizenzen/nlohmann-json-LICENSE.MIT": {
+      "bytes": 1076,
+      "sha256": "46a65cffd1ea955132d95a8dd921640714a8d6b537d2e4e482d31145ae95b603"
+    },
+    "Paketinhalt.json": {
+      "bytes": 16858,
+      "sha256": "b2e61ca613afa86f10f5b0fba352404d53be493d01ce8bf4f97f4bf56072767c"
+    },
+    "metro_karten.json": {
+      "bytes": 30732,
+      "sha256": "32837b44593bd7ae1b95866d47cc53abc9b5110ae5446b33a3cce417a7f210cb"
+    },
+    "musik/01_outer_space.m4a": {
+      "bytes": 3302750,
+      "sha256": "d4f9fc68342668f8af606ec9239603f6d0f3c70aad17c092c4c8277d3f9fab84"
+    },
+    "musik/02_outer_limits.m4a": {
+      "bytes": 3444652,
+      "sha256": "913d620ce0fd63b9230acc9faa743fc922a6320e80e75940d5c579ded2f76d31"
+    },
+    "musik/03_oracle_of_delphi.m4a": {
+      "bytes": 4430222,
+      "sha256": "e1c1d25e7a178bc873ddd263a2471bf094c9bfbe0bc4c328164c85adffe59cde"
+    },
+    "musik/04_the_apocalypse.m4a": {
+      "bytes": 2795021,
+      "sha256": "c1c0ec9e09ee0271a33780236356dcab81168fd283662dc7919904617b57ef06"
+    },
+    "musik/05_revelations_of_light_and_dark.m4a": {
+      "bytes": 6355401,
+      "sha256": "c114a8cd507f162fe352bd787369e09fdacf2040d09f323cbfe25e4e7a389c15"
+    },
+    "musik/06_shes_gone.m4a": {
+      "bytes": 4454365,
+      "sha256": "de9e85b52e225e6be909a8062a4963d23f10d8659f19e971440dc355cdbb4061"
+    },
+    "musik/07_dark_sparse_piano.m4a": {
+      "bytes": 2903373,
+      "sha256": "f9697812d8a912814ed244fdd2deb76bcb951518644ef39b8e8aa39adaa8a38e"
+    },
+    "sounds/abriss_1.wav": {
+      "bytes": 422444,
+      "sha256": "75f2af1cbbcdcf474fd903c600837bdec75b148bef7a6fb2ebb0c944192c494c"
+    },
+    "sounds/abriss_2.wav": {
+      "bytes": 422444,
+      "sha256": "85a20aa876f8b2ac58ade7e7c1501093ab1dfdf1dd3a34313e57448e5735dfaf"
+    },
+    "sounds/abriss_3.wav": {
+      "bytes": 422444,
+      "sha256": "769e0e8937856364321ff6ee431e8f163ffd38775427d8d7146a792c68491140"
+    },
+    "sounds/abriss_4.wav": {
+      "bytes": 418860,
+      "sha256": "43fe008b41f15c10c8c8ea342316853c5783d337d1e22a34daa2454e6d89c182"
+    },
+    "sounds/armbrust_schuss.wav": {
+      "bytes": 101804,
+      "sha256": "d5522fca581d3026e019ec3594a78400e952e7e03c2fbde4cfac4ae54af2ad3f"
+    },
+    "sounds/auftrag.wav": {
+      "bytes": 345644,
+      "sha256": "fcc9285b6e70b63bb6deab990e44b93a2232580457ad1b882b6ce6173822a0b1"
+    },
+    "sounds/ausbau.wav": {
+      "bytes": 345644,
+      "sha256": "de40d42c147605c9f4658e211e49fba6cc55207f1659937c22be65beeb758fea"
+    },
+    "sounds/ausruesten.wav": {
+      "bytes": 100752,
+      "sha256": "df0722e8b47f771b9e1fde7f356592e7c8c8646b5bf7dcf690dd8ce42c94591f"
+    },
+    "sounds/bau.wav": {
+      "bytes": 377908,
+      "sha256": "ea5d1e8649e191f1ee914ce4562a4d4e4eef256ab14192f5eedbcc044120d272"
+    },
+    "sounds/erkunden_1.wav": {
+      "bytes": 316844,
+      "sha256": "76d802eb0932531b30d956a642b3927714538d75d6e0d4a00ede4c58337c159f"
+    },
+    "sounds/erkunden_2.wav": {
+      "bytes": 316844,
+      "sha256": "4449c5261152e83c9c767e7410d2fa057e63bd6a573f35ea64333e85f6ed708d"
+    },
+    "sounds/erkunden_3.wav": {
+      "bytes": 316844,
+      "sha256": "a85ecf2efbf51dd26db7cdfeee4056a837107cbe4bd0faa1e524be6f1bfaadc3"
+    },
+    "sounds/faust_1.wav": {
+      "bytes": 46916,
+      "sha256": "c6b6240bdf30361034e3c3e2f1bff6bb15c4c26b8a52bccee487a0c749247b35"
+    },
+    "sounds/faust_2.wav": {
+      "bytes": 67604,
+      "sha256": "7a67459fb16f30e705c0c4a215b4f1ae9ef3c29be78fe28be15ac74cda7e6f0c"
+    },
+    "sounds/faust_3.wav": {
+      "bytes": 60196,
+      "sha256": "4a6b2aa368ca9183d89250d4cfdf47c5ca7002a0079d1c115023929e3af6c462"
+    },
+    "sounds/flammenstoss_1.wav": {
+      "bytes": 90200,
+      "sha256": "74f8dff31710e516e82bd8e7adcb2660686cbac093ad3b8752617317e93eb335"
+    },
+    "sounds/flammenstoss_2.wav": {
+      "bytes": 96044,
+      "sha256": "e61e48e96262ab308e1049c64c1c55404afedc05f8d4951062f538dfedb62106"
+    },
+    "sounds/flashbang.wav": {
+      "bytes": 355244,
+      "sha256": "8e691104b91d71f1edb403ff3fa364435de63f37abf7fac897e57e118d98f5e7"
+    },
+    "sounds/flucht.wav": {
+      "bytes": 355244,
+      "sha256": "3887c2ba62d9fad69ffc0dc701dc396a304b190bdc6987cce81546cacc8358b9"
+    },
+    "sounds/gefecht_fern_1.wav": {
+      "bytes": 1728044,
+      "sha256": "dc24c7c322f13ab1772b753be1796812ff8049d926d8fbd1e66b365df68b3f3b"
+    },
+    "sounds/gefecht_fern_2.wav": {
+      "bytes": 1728044,
+      "sha256": "14ac8fbfe01a062fc1e391bf48910f901775a4298189c9afbd9d86256bf3ac66"
+    },
+    "sounds/granate_1.wav": {
+      "bytes": 345644,
+      "sha256": "dd9c432843a8f9219128a65037295fbc2a547aae0a63996e26c5d38bd5309328"
+    },
+    "sounds/granate_2.wav": {
+      "bytes": 345644,
+      "sha256": "84fb27ef0ededa9ad944b8dfeddfc0f139354f06ba4189f0cd39b703554c3911"
+    },
+    "sounds/handel_1.wav": {
+      "bytes": 110636,
+      "sha256": "dc694d6dcdfb3e1beb248d0a608ff0c230a350a30b2e7b632dbc6b1954c07ba8"
+    },
+    "sounds/handel_2.wav": {
+      "bytes": 140500,
+      "sha256": "d763b29d03045c8f09aabc6c9d2db7cd51378c9ef365e3a430f23638d07797f9"
+    },
+    "sounds/handel_3.wav": {
+      "bytes": 220840,
+      "sha256": "9af8f6f4ce5b0d91e7f3b5bba7e5903ec4538f2f825d9eaf6c7d711d99061977"
+    },
+    "sounds/hanse_besetzt.wav": {
+      "bytes": 614444,
+      "sha256": "cb012d6e8ad10337a27e4bcb9a609bdd1725249313c2c844795042f29487222e"
+    },
+    "sounds/heilen.wav": {
+      "bytes": 240044,
+      "sha256": "c481ad155b0f9c62ad3be6f8c10bb321e48f5a9b59a1ff8626696f126119b7b2"
+    },
+    "sounds/kampf_gewehr_1.wav": {
+      "bytes": 414764,
+      "sha256": "74d64b1cbc04e3d7c95a8c6d92de7e25121eae0e5ff528fc1d0d8f1cc40dfc2a"
+    },
+    "sounds/kampf_gewehr_2.wav": {
+      "bytes": 470060,
+      "sha256": "bd4185e77aa9e1bffdfcb625a481a3d2947ec01f46613db6165e9bdbde551202"
+    },
+    "sounds/kampf_mp.wav": {
+      "bytes": 460844,
+      "sha256": "a702fd2fc91dd5b2e389635db368ef1c6f7ae10484540708eb49438b8648ed0e"
+    },
+    "sounds/kampf_schrotflinte.wav": {
+      "bytes": 451628,
+      "sha256": "e7d9c0cd39af148e25ab2fc94abdde1291b6ea58b603187133a30eac18dd8e67"
+    },
+    "sounds/karte_1.wav": {
+      "bytes": 124844,
+      "sha256": "ff377dbec981b22d9518e2eafafa587a891f2c3c55f4d395ecdebfb06ec1251f"
+    },
+    "sounds/karte_2.wav": {
+      "bytes": 124844,
+      "sha256": "1aac1b214990fee9793e7c4c5d7244e9e71e991977a38fd4ae6d051f007a38ec"
+    },
+    "sounds/klick.wav": {
+      "bytes": 32384,
+      "sha256": "1e1cebca65a7b994e0d6379762b6a95211d7ed69a6577b2f631bcf29f5814956"
+    },
+    "sounds/klinge_1.wav": {
+      "bytes": 52948,
+      "sha256": "7a47ad584fb5b57fdb7ec2b39c0a45c9693b344808b0c71e89398e593c2354e0"
+    },
+    "sounds/klinge_2.wav": {
+      "bytes": 49888,
+      "sha256": "46a5345961aa530e7882f1f3421163b91858dc9abf5611872bdd9f9cc667f82a"
+    },
+    "sounds/klinge_3.wav": {
+      "bytes": 70076,
+      "sha256": "69c36079469ce59ee5296016e9a9debfe98b73a3fcfbdb8597464168982a07c3"
+    },
+    "sounds/kreatur_biss_1.wav": {
+      "bytes": 84104,
+      "sha256": "817e24b940c45857f7d7d523c89e6c16f7c85a46b450d19ee384e134d88cb49a"
+    },
+    "sounds/kreatur_biss_2.wav": {
+      "bytes": 87976,
+      "sha256": "261de995a568da6791709865e09357049a0849aa37f33666e2e1894db7cd18f1"
+    },
+    "sounds/kreatur_biss_3.wav": {
+      "bytes": 102236,
+      "sha256": "ec4f374d6e4fed3863ab4e8a0fb181534dd97c1192e6eb168fb0d945d6c82b06"
+    },
+    "sounds/kreatur_hicks.wav": {
+      "bytes": 94756,
+      "sha256": "83780edb0f6c6765c19f526b1a8da94aadc184de02cb37cc6ed55bd43231cf1d"
+    },
+    "sounds/kreatur_klaue_1.wav": {
+      "bytes": 87140,
+      "sha256": "300de46a1d1710b6e9cb0706975bfe664ab4867c1667ed64e56e000c300d2603"
+    },
+    "sounds/kreatur_klaue_2.wav": {
+      "bytes": 69260,
+      "sha256": "00b40c665b85ab94a4000d08647c94033abb84f02ee4f65d0d5086be36644252"
+    },
+    "sounds/kreatur_klaue_3.wav": {
+      "bytes": 87040,
+      "sha256": "afb160c4243b2c9bb0c7ba0a63d8ab0f7d640a944d9099b1ddc4eccbeb1bf933"
+    },
+    "sounds/kreatur_schrei_1.wav": {
+      "bytes": 298576,
+      "sha256": "2e7fb5f5d5897af890bcf3cd00039f789293f30ec364deb6d49e5a7593758933"
+    },
+    "sounds/kreatur_schrei_2.wav": {
+      "bytes": 325716,
+      "sha256": "b147bb5577ab70ed5a9332deeb45688d0a4ab4c7d9b6314546ebe57cad891ae7"
+    },
+    "sounds/kreatur_schrei_3.wav": {
+      "bytes": 264652,
+      "sha256": "28e456e9bbf1823f26e5dce865dcfa66d59b4d70da81c496be5e1bd32143114a"
+    },
+    "sounds/kreatur_schrei_4.wav": {
+      "bytes": 413920,
+      "sha256": "24277ec085a2213514e5a4969d61de8d4c4e7199d12b795150b8db1f85e11b6a"
+    },
+    "sounds/kreatur_schrei_5.wav": {
+      "bytes": 339288,
+      "sha256": "58579e36220fdb86817490c90a5e099ea815b58e59fba5549dec9189cb2b39b8"
+    },
+    "sounds/kreatur_schrei_6.wav": {
+      "bytes": 366424,
+      "sha256": "afdf100789252658e0bd22e127c2fc8dcd685a7510df9fcc2773e87bb4786326"
+    },
+    "sounds/kreatur_schrei_7.wav": {
+      "bytes": 502124,
+      "sha256": "37d88e203d3798ff8ec3741a3f3199d57df78fab776adc35351d34273987aee0"
+    },
+    "sounds/kreatur_schrei_8.wav": {
+      "bytes": 257868,
+      "sha256": "bf6b26014688eaa275badfbb4d5def8d78644beff3ece1930401e733b1386086"
+    },
+    "sounds/kreatur_stoss_1.wav": {
+      "bytes": 67832,
+      "sha256": "84617b12f2e8f690ca32e23e9bfd7f27a47a1402a595d5b24840bce839b88ded"
+    },
+    "sounds/kreatur_stoss_2.wav": {
+      "bytes": 77720,
+      "sha256": "d802a43657eade0fd7db4ac079e7d5358ea20ecd9db68eeb52388a7e605c9271"
+    },
+    "sounds/kreatur_zirpen.wav": {
+      "bytes": 368488,
+      "sha256": "e573d4fa02ca906f75cb4e62fa583648a601b5f3b14fdb406b9a179a2bf01095"
+    },
+    "sounds/licht_start.wav": {
+      "bytes": 364844,
+      "sha256": "dafa5ce4b0668692a871191273b7c7df5a37bee919cb0e547ae6a42f31719f48"
+    },
+    "sounds/lobby.wav": {
+      "bytes": 105644,
+      "sha256": "ebd90f3a50977e95556ce6d054db827053848be733239aa1579001e552cc8e5b"
+    },
+    "sounds/menue_atmo.wav": {
+      "bytes": 8640044,
+      "sha256": "08e4890b3815daad00fad833e6f1f24da6c84a045c53736747224f976901fe42"
+    },
+    "sounds/mg_salve.wav": {
+      "bytes": 391724,
+      "sha256": "41c2fca9cdef3b360e90bb0976c1c78f8550e120b85ae0cf730d3a559539a35c"
+    },
+    "sounds/nest.wav": {
+      "bytes": 729644,
+      "sha256": "0018c7521f730c66d681a360cbc65e187ca8e6fcb649db11a74b08dde34c24d2"
+    },
+    "sounds/niederlage.wav": {
+      "bytes": 768044,
+      "sha256": "18a1f12081743180851b875dab65a4dd15f59fc199b9df9620b0314891b35a95"
+    },
+    "sounds/nuke.wav": {
+      "bytes": 1113644,
+      "sha256": "a19ae9331d68c6bd8c766c0e84881d7b79320a68c096c73ac1da30900b9dcda7"
+    },
+    "sounds/phase_1.wav": {
+      "bytes": 326444,
+      "sha256": "b819d51da90d067dc1d8e647182f7a9c85443a6a83b066c6871485a6e65a8872"
+    },
+    "sounds/phase_2.wav": {
+      "bytes": 326444,
+      "sha256": "bf68da7ed919f404f6ba688d550f00eda55bd8a4d5c2b69adeab2f082243458e"
+    },
+    "sounds/phase_3.wav": {
+      "bytes": 326444,
+      "sha256": "3a954ced3f2aab7d7293bc8ace3a3772fb20f9bd8f9c4418910704bdf95c9d9a"
+    },
+    "sounds/quellen.json": {
+      "bytes": 27374,
+      "sha256": "c8f1c94df7e081a79d95385c2830160a424c7030a2882788df23ee4c400647a5"
+    },
+    "sounds/ranger_faellt_1.wav": {
+      "bytes": 316844,
+      "sha256": "768e6fa5d4adff6dce359588b334dcb61fae4b635588baa449e058290ced27d2"
+    },
+    "sounds/ranger_faellt_2.wav": {
+      "bytes": 316844,
+      "sha256": "5c3122d21b880f8abb4cc00f28fb8ff5b30fef27c65a4eb0fb8b0a8f98477b73"
+    },
+    "sounds/ranger_faellt_3.wav": {
+      "bytes": 316844,
+      "sha256": "08daf5dee0e59edea8613138691252d0094d30d3c8beb24aa19cd4c48a50fa50"
+    },
+    "sounds/ranger_faellt_4.wav": {
+      "bytes": 230444,
+      "sha256": "e226f3a6ce8a39a9adfd5d0822b0d2358e0ea84157895e85ad179974d0f6ba03"
+    },
+    "sounds/ranger_faellt_5.wav": {
+      "bytes": 202796,
+      "sha256": "8a608e6dad32dcf7b3d07a7d98d4b0acfd3a3c424333b3168b1a62a69e3ca2cd"
+    },
+    "sounds/ranger_faellt_6.wav": {
+      "bytes": 316844,
+      "sha256": "197d60d6ecf7ad8b4fe86ced3bb428c96ee63ab21e37d2ad83ad23257b12785f"
+    },
+    "sounds/rekrut_1.wav": {
+      "bytes": 240044,
+      "sha256": "12cd5185e2cb191ae0da55297577120b819447abfc6e2fd50e46f582f7ee4f6e"
+    },
+    "sounds/rekrut_2.wav": {
+      "bytes": 240044,
+      "sha256": "7d948c13fa9205e37296f6aec7c1674e4f689a220b17473a75862554bcd94686"
+    },
+    "sounds/rekrut_3.wav": {
+      "bytes": 240044,
+      "sha256": "c96f907c7efd00af295a0e41fc1d369a272d3c8147aab9634eb317840643ba06"
+    },
+    "sounds/revolver_1.wav": {
+      "bytes": 423980,
+      "sha256": "9cf17b38aedcd6353c26ae2c02174fdde74a6e798aec9b45fe39bfeb5b09cd22"
+    },
+    "sounds/revolver_2.wav": {
+      "bytes": 414764,
+      "sha256": "02d236d1cda0e0e9125a16a66aaf460a18b8b6219dc7cee2ae4929a083637350"
+    },
+    "sounds/runde.wav": {
+      "bytes": 518444,
+      "sha256": "101110a7c5a3cdf5df8e77dc1819aaee7424d807766b1b3f97ad8f3b5826a212"
+    },
+    "sounds/schalldaempfer_1.wav": {
+      "bytes": 304172,
+      "sha256": "f539a026ed82c13518bc02e6b5af556bcfb161a5ada3a08e8bf521b627757476"
+    },
+    "sounds/schalldaempfer_2.wav": {
+      "bytes": 129068,
+      "sha256": "12e7f21f0b42bffa5e4d9f0d40804d15f3e4cd45531f060a4ba2bb700f93b4a1"
+    },
+    "sounds/scharfschuetze_1.wav": {
+      "bytes": 377900,
+      "sha256": "ae086c42ae50fe97c008a8dae84b89d844a90ee13db894dbca476321cb8c720b"
+    },
+    "sounds/scharfschuetze_2.wav": {
+      "bytes": 396332,
+      "sha256": "f1c0610a79e47323512e407045c0ae453dcce3de44ecd32d45881c244a857d98"
+    },
+    "sounds/sieg.wav": {
+      "bytes": 825644,
+      "sha256": "e8ed4eec47c7430bc548c4ef1f45d1ace0c3de1369245b5f8ff43b714287d509"
+    },
+    "sounds/tor.wav": {
+      "bytes": 403244,
+      "sha256": "99ffb58d4272b542ecb9e83d534fec274dfe80e233a98078bf0eeb8fd9a7bfe6"
+    },
+    "sprachen/en.json": {
+      "bytes": 96574,
+      "sha256": "3340bf52dc72a20ba5f9d126af652d349b0806107d135ed6cf4b0c6a77d25334"
+    },
+    "videos/01_Kek_Engine.mp4": {
+      "bytes": 6377586,
+      "sha256": "05bb3f77971c2a4612eb96af84978e0fb28e011d8427b86972315469e85cd123"
+    },
+    "videos/02_Subway_Survivors.mp4": {
+      "bytes": 15951137,
+      "sha256": "31ee3104bc574f6014c262f2382f27e27566ffd00c7dbfbfac2cb921bbfb2779"
+    },
+    "videos/quellen.json": {
+      "bytes": 431,
+      "sha256": "cd5339e71861fc229ea9acb9f8f8f6b825afe8bf1015dff8b5263b003be1f9f6"
+    }
+  }
+}

@@ -1,0 +1,790 @@
+{
+  "phase_1.wav": {
+    "ereignis": "Phasenwechsel",
+    "sekunden": 1.7,
+    "peak_dbfs": -10.52,
+    "rms_dbfs": -24.0,
+    "schleife": false
+  },
+  "phase_2.wav": {
+    "ereignis": "Phasenwechsel",
+    "sekunden": 1.7,
+    "peak_dbfs": -6.11,
+    "rms_dbfs": -24.0,
+    "schleife": false
+  },
+  "phase_3.wav": {
+    "ereignis": "Phasenwechsel",
+    "sekunden": 1.7,
+    "peak_dbfs": -10.69,
+    "rms_dbfs": -24.01,
+    "schleife": false
+  },
+  "runde.wav": {
+    "ereignis": "Rundenbeginn",
+    "sekunden": 2.7,
+    "peak_dbfs": -3.0,
+    "rms_dbfs": -22.66,
+    "schleife": false
+  },
+  "erkunden_1.wav": {
+    "ereignis": "Erkunden",
+    "sekunden": 1.65,
+    "peak_dbfs": -3.0,
+    "rms_dbfs": -23.59,
+    "schleife": false
+  },
+  "rekrut_1.wav": {
+    "ereignis": "Ranger anheuern",
+    "sekunden": 1.25,
+    "peak_dbfs": -3.0,
+    "rms_dbfs": -26.41,
+    "schleife": false
+  },
+  "erkunden_2.wav": {
+    "ereignis": "Erkunden",
+    "sekunden": 1.65,
+    "peak_dbfs": -3.0,
+    "rms_dbfs": -24.37,
+    "schleife": false
+  },
+  "rekrut_2.wav": {
+    "ereignis": "Ranger anheuern",
+    "sekunden": 1.25,
+    "peak_dbfs": -3.0,
+    "rms_dbfs": -26.9,
+    "schleife": false
+  },
+  "erkunden_3.wav": {
+    "ereignis": "Erkunden",
+    "sekunden": 1.65,
+    "peak_dbfs": -3.0,
+    "rms_dbfs": -25.73,
+    "schleife": false
+  },
+  "rekrut_3.wav": {
+    "ereignis": "Ranger anheuern",
+    "sekunden": 1.25,
+    "peak_dbfs": -3.0,
+    "rms_dbfs": -27.22,
+    "schleife": false
+  },
+  "ausruesten.wav": {
+    "ereignis": "Ausrüsten",
+    "sekunden": 0.525,
+    "peak_dbfs": -3.0,
+    "rms_dbfs": -26.55,
+    "schleife": false
+  },
+  "karte_1.wav": {
+    "ereignis": "Karte ausspielen",
+    "sekunden": 0.65,
+    "peak_dbfs": -3.0,
+    "rms_dbfs": -28.48,
+    "schleife": false
+  },
+  "karte_2.wav": {
+    "ereignis": "Karte ausspielen",
+    "sekunden": 0.65,
+    "peak_dbfs": -3.0,
+    "rms_dbfs": -30.0,
+    "schleife": false
+  },
+  "handel_1.wav": {
+    "ereignis": "Hanse-Handel / Marktplatz",
+    "sekunden": 0.576,
+    "peak_dbfs": -3.0,
+    "rms_dbfs": -32.79,
+    "schleife": false
+  },
+  "handel_2.wav": {
+    "ereignis": "Hanse-Handel / Marktplatz",
+    "sekunden": 0.732,
+    "peak_dbfs": -3.0,
+    "rms_dbfs": -27.75,
+    "schleife": false
+  },
+  "handel_3.wav": {
+    "ereignis": "Hanse-Handel / Marktplatz",
+    "sekunden": 1.15,
+    "peak_dbfs": -3.0,
+    "rms_dbfs": -29.11,
+    "schleife": false
+  },
+  "hanse_besetzt.wav": {
+    "ereignis": "Hanse besetzt",
+    "sekunden": 3.2,
+    "peak_dbfs": -4.28,
+    "rms_dbfs": -20.04,
+    "schleife": false
+  },
+  "nest.wav": {
+    "ereignis": "Nest gefunden",
+    "sekunden": 3.8,
+    "peak_dbfs": -6.12,
+    "rms_dbfs": -20.0,
+    "schleife": false
+  },
+  "auftrag.wav": {
+    "ereignis": "Hanse-Auftrag erfüllt",
+    "sekunden": 1.8,
+    "peak_dbfs": -4.91,
+    "rms_dbfs": -23.0,
+    "schleife": false
+  },
+  "sieg.wav": {
+    "ereignis": "Sieg",
+    "sekunden": 4.3,
+    "peak_dbfs": -3.0,
+    "rms_dbfs": -23.56,
+    "schleife": false
+  },
+  "niederlage.wav": {
+    "ereignis": "Niederlage",
+    "sekunden": 4.0,
+    "peak_dbfs": -10.92,
+    "rms_dbfs": -22.0,
+    "schleife": false
+  },
+  "nuke.wav": {
+    "ereignis": "Nuklearschlag: Sirene, Explosion, Nachhall",
+    "sekunden": 5.8,
+    "peak_dbfs": -3.0,
+    "rms_dbfs": -21.96,
+    "schleife": false
+  },
+  "ausbau.wav": {
+    "ereignis": "Gebäude ausbauen",
+    "sekunden": 1.8,
+    "peak_dbfs": -7.97,
+    "rms_dbfs": -23.0,
+    "schleife": false
+  },
+  "abriss_1.wav": {
+    "ereignis": "Gebäude abreißen",
+    "sekunden": 2.2,
+    "peak_dbfs": -7.48,
+    "rms_dbfs": -21.0,
+    "schleife": false
+  },
+  "abriss_2.wav": {
+    "ereignis": "Gebäude abreißen",
+    "sekunden": 2.2,
+    "peak_dbfs": -6.65,
+    "rms_dbfs": -21.0,
+    "schleife": false
+  },
+  "abriss_3.wav": {
+    "ereignis": "Gebäude abreißen",
+    "sekunden": 2.2,
+    "peak_dbfs": -8.27,
+    "rms_dbfs": -21.0,
+    "schleife": false
+  },
+  "abriss_4.wav": {
+    "ereignis": "Gebäude abreißen",
+    "sekunden": 2.181,
+    "peak_dbfs": -6.66,
+    "rms_dbfs": -21.0,
+    "schleife": false
+  },
+  "flucht.wav": {
+    "ereignis": "Flucht / Rückzug",
+    "sekunden": 1.85,
+    "peak_dbfs": -3.0,
+    "rms_dbfs": -21.37,
+    "schleife": false
+  },
+  "granate_1.wav": {
+    "ereignis": "Handgranate",
+    "sekunden": 1.8,
+    "peak_dbfs": -11.08,
+    "rms_dbfs": -20.0,
+    "schleife": false
+  },
+  "granate_2.wav": {
+    "ereignis": "Handgranate",
+    "sekunden": 1.8,
+    "peak_dbfs": -3.89,
+    "rms_dbfs": -20.0,
+    "schleife": false
+  },
+  "flashbang.wav": {
+    "ereignis": "Flashbang",
+    "sekunden": 1.85,
+    "peak_dbfs": -9.37,
+    "rms_dbfs": -24.0,
+    "schleife": false
+  },
+  "heilen.wav": {
+    "ereignis": "Heilung: Lazarett / Sanitäter",
+    "sekunden": 1.25,
+    "peak_dbfs": -5.48,
+    "rms_dbfs": -22.0,
+    "schleife": false
+  },
+  "tor.wav": {
+    "ereignis": "Hermetisches Tor hält",
+    "sekunden": 2.1,
+    "peak_dbfs": -3.0,
+    "rms_dbfs": -21.84,
+    "schleife": false
+  },
+  "ranger_faellt_1.wav": {
+    "ereignis": "Mensch fällt im Kampf",
+    "sekunden": 1.65,
+    "peak_dbfs": -5.31,
+    "rms_dbfs": -22.0,
+    "schleife": false
+  },
+  "ranger_faellt_2.wav": {
+    "ereignis": "Mensch fällt im Kampf",
+    "sekunden": 1.65,
+    "peak_dbfs": -3.44,
+    "rms_dbfs": -22.0,
+    "schleife": false
+  },
+  "ranger_faellt_3.wav": {
+    "ereignis": "Mensch fällt im Kampf",
+    "sekunden": 1.65,
+    "peak_dbfs": -3.0,
+    "rms_dbfs": -22.86,
+    "schleife": false
+  },
+  "ranger_faellt_4.wav": {
+    "ereignis": "Mensch fällt im Kampf",
+    "sekunden": 1.2,
+    "peak_dbfs": -8.55,
+    "rms_dbfs": -22.0,
+    "schleife": false
+  },
+  "ranger_faellt_5.wav": {
+    "ereignis": "Mensch fällt im Kampf",
+    "sekunden": 1.056,
+    "peak_dbfs": -4.97,
+    "rms_dbfs": -22.0,
+    "schleife": false
+  },
+  "ranger_faellt_6.wav": {
+    "ereignis": "Mensch fällt im Kampf",
+    "sekunden": 1.65,
+    "peak_dbfs": -7.05,
+    "rms_dbfs": -22.0,
+    "schleife": false
+  },
+  "lobby.wav": {
+    "ereignis": "Spieler tritt der Lobby bei",
+    "sekunden": 0.55,
+    "peak_dbfs": -12.4,
+    "rms_dbfs": -26.03,
+    "schleife": false
+  },
+  "klick.wav": {
+    "ereignis": "Schaltfläche anklicken",
+    "sekunden": 0.168,
+    "peak_dbfs": -7.43,
+    "rms_dbfs": -30.0,
+    "schleife": false
+  },
+  "menue_atmo.wav": {
+    "ereignis": "Hauptmenü: Tunnelatmosphäre",
+    "sekunden": 45.0,
+    "peak_dbfs": -3.0,
+    "rms_dbfs": -35.33,
+    "schleife": true
+  },
+  "quellen": [
+    {
+      "quelle": "zapsplat_pack_footsteps_single_stony_path_wav.zip:zapsplat_pack_footsteps_single_stony_path_wav/zapsplat_foley_footstep_single_stoney_path_001_23277.wav",
+      "sha256": "ba2ff60017b89239952018e82262be5cf879c54a9381e3e3209b6b6777b4494c",
+      "sekunden": 0.514
+    },
+    {
+      "quelle": "zapsplat_pack_footsteps_single_stony_path_wav.zip:zapsplat_pack_footsteps_single_stony_path_wav/zapsplat_foley_footstep_single_stoney_path_002_23278.wav",
+      "sha256": "37a27b8e7aba2fd71f2cd69f298abfab02d4f1e9f1d5d0344248d7b7b50f7b60",
+      "sekunden": 0.662
+    },
+    {
+      "quelle": "zapsplat_pack_footsteps_single_stony_path_wav.zip:zapsplat_pack_footsteps_single_stony_path_wav/zapsplat_foley_footstep_single_stoney_path_003_23279.wav",
+      "sha256": "42c94c9174df0364130d5264e2eaec8b4d8e50d50b1b342a6b24e9601d5f0a39",
+      "sekunden": 0.593
+    },
+    {
+      "quelle": "zapsplat_pack_footsteps_single_stony_path_wav.zip:zapsplat_pack_footsteps_single_stony_path_wav/zapsplat_foley_footstep_single_stoney_path_004_23280.wav",
+      "sha256": "1f9f8b771257dc0f4ecc689aeb1b5c8c0e1a928745f30be53114925ebe9d7c89",
+      "sekunden": 0.444
+    },
+    {
+      "quelle": "zapsplat_pack_footsteps_single_stony_path_wav.zip:zapsplat_pack_footsteps_single_stony_path_wav/zapsplat_foley_footstep_single_stoney_path_005_23281.wav",
+      "sha256": "8678dd54ebd7b74bacbfac06814279ff15bf99f79e9362ebb3210ba040cc751c",
+      "sekunden": 0.494
+    },
+    {
+      "quelle": "zapsplat_pack_footsteps_single_stony_path_wav.zip:zapsplat_pack_footsteps_single_stony_path_wav/zapsplat_foley_footstep_single_stoney_path_006_23282.wav",
+      "sha256": "774ca4202de82cbc7edb82bd89d159bb0607d432f6187a3764579fb2c004518e",
+      "sekunden": 0.559
+    },
+    {
+      "quelle": "equip.wav",
+      "sha256": "fbe4df46dfb90d3812eb75a9fe691bcd7d064af97bda9a5917f69566d4b36283",
+      "sekunden": 1.458
+    },
+    {
+      "quelle": "esm_gong_drum_hit_impact_game_mobile_user_interface_tap_fx_sound.wav",
+      "sha256": "c369a790fb27d72aa014adc5eba3bee59d9c06f78d9fb692b85edf42107cc938",
+      "sekunden": 2.693
+    },
+    {
+      "quelle": "zapsplat_pack_sci_fi_radio_interference_wav.zip:zapsplat_pack_sci_fi_radio_interference_wav/zapsplat_science_fiction_radio_signal_interference_burst_001_37752.wav",
+      "sha256": "2a86de236eb9e7fcfe8b6d4c57d71c5a451a6d579d480d71dbe089d73d9785c7",
+      "sekunden": 4.351
+    },
+    {
+      "quelle": "sound_spark_alien_radio_chatter_02_162.wav",
+      "sha256": "4e4da1c16431c5269b20bd2f319f8dee8b0961398f02193e9aff85f60c6a3612",
+      "sekunden": 8.657
+    },
+    {
+      "quelle": "zapsplat_pack_cockpit_radio_chatter_wav.zip:zapsplat_pack_cockpit_radio_chatter_wav/zapsplat_vehicles_airplane_pilot_radio_chatter_says_roger_that_39865.wav",
+      "sha256": "617edc7b5503f175dc22161e50e9960c172f01fd05012e0410e21feacb21538e",
+      "sekunden": 1.435
+    },
+    {
+      "quelle": "zapsplat_pack_handling_paper_wav.zip:zapsplat_pack_handling_paper_wav/zapsplat_foley_paper_sheet_single_handling_very_short_fast_112422.wav",
+      "sha256": "d9abb733d85f0619d0880e6404e06ad8eaeddeca4e56383394e5e934c4c7b8a2",
+      "sekunden": 1.008
+    },
+    {
+      "quelle": "zapsplat_pack_handling_paper_wav.zip:zapsplat_pack_handling_paper_wav/zapsplat_foley_paper_sheet_single_handling_very_short_hard_112423.wav",
+      "sha256": "6ee38fe839548c21633fd81becae087b3fcffafea8f98ce067ed592ddb718b00",
+      "sekunden": 1.55
+    },
+    {
+      "quelle": "gma_bullet_shell_bounce_wood1_04_255.wav",
+      "sha256": "13208e84336d0c9b5c873b7c51b2cc107e2153cdbe339f53875a31731a65e2dc",
+      "sekunden": 0.576
+    },
+    {
+      "quelle": "gma_bullet_shell_bounce_wood1_03_254.wav",
+      "sha256": "6e2c21cffce3ed2831aa5f2a121862ed7ca57d435776bbee7cac8f0ea8427e91",
+      "sekunden": 0.816
+    },
+    {
+      "quelle": "smartsound_WEAPONS_BULLET_Drop_Metal.wav",
+      "sha256": "4e8724167aee07b3b39c9277c19613510aa1b1d64d67deaad5162addf78cab9f",
+      "sekunden": 4.356
+    },
+    {
+      "quelle": "zapsplat_pack_sci_fi_emergency_alarms_wav.zip:zapsplat_pack_sci_fi_emergency_alarms_wav/zapsplat_science_fiction_alarm_evacuate_emergency_large_reverb_114805.wav",
+      "sha256": "fb8e25e0387b8b98172dab12ca2f5e05ab8530a104e694cd4e118e49f1b4673f",
+      "sekunden": 51.841
+    },
+    {
+      "quelle": "zapsplat_pack_broken_signals_wav.zip:zapsplat_pack_broken_signals_wav/biiansu_Broken_Rituals_1_Broken_Signals.wav",
+      "sha256": "131f5fd65cdd1640f714298825ca0340d9fb04909dc3793d2afb8d0d0661b828",
+      "sekunden": 116.55
+    },
+    {
+      "quelle": "zapsplat_pack_science_fiction_machine_wav.zip:zapsplat_pack_science_fiction_machine_wav/zapsplat_science_fiction_machine_power_down_55173.wav",
+      "sha256": "cb8027e014a1da53cf5ab0271278686c310a306e252f7904773bdb7a974d8305",
+      "sekunden": 6.936
+    },
+    {
+      "quelle": "skyclad_sound_EXPLDsgn_Explosion+Large+No+Debris,+Impact+Crisp,+Tail+Swell+with+Echoes+slapback,+Ripple+with+Flange_SCS_NONE_932.wav",
+      "sha256": "c407c948cede1f2002c97328518546650919784d4ebe6629297b3250808419b2",
+      "sekunden": 5.91
+    },
+    {
+      "quelle": "skyclad_sound_EXPLDsgn_Explosion+Distant+Exterior+Medium+No+Debris,+Early+Echoes+into+Tail+Clean+with+Flange+Slight_SCS_NONE_933.wav",
+      "sha256": "ef2234ffb83c30776e953d6640f29ff96ddae4462be3dedbb5964ed48720f05d",
+      "sekunden": 5.91
+    },
+    {
+      "quelle": "zapsplat_pack_science_fiction_machine_wav.zip:zapsplat_pack_science_fiction_machine_wav/zapsplat_science_fiction_machine_rhythmic_operating_thud_pump_60553.wav",
+      "sha256": "35b98501c5582d7ccc4ae1e3b00dcee248e463f59195d69ec2316a5f3cb2180a",
+      "sekunden": 9.352
+    },
+    {
+      "quelle": "zapsplat_fantasy_magic_dark_spell_destroy_rocky_structure_break_stones_rock_apart_001_93020.wav",
+      "sha256": "29d765bcb684c1e05fe241110ddfad052f538d56296b976e427d94643951e276",
+      "sekunden": 3.743
+    },
+    {
+      "quelle": "zapsplat_fantasy_magic_dark_spell_destroy_rocky_structure_break_stones_rock_apart_002_93021.wav",
+      "sha256": "4cea73d03136add3a6b4f0d4b6906798bff242a1f3d3c294e753376e7c143e58",
+      "sekunden": 4.848
+    },
+    {
+      "quelle": "zapsplat_fantasy_magic_dark_spell_destroy_rocky_structure_break_stones_rock_apart_003_93022.wav",
+      "sha256": "bf84b2a4085c03f621cee0f0b45f2f333d359a92c2ecfde932f3ce3ffd012bfd",
+      "sekunden": 4.602
+    },
+    {
+      "quelle": "zapsplat_fantasy_magic_dark_spell_destroy_rocky_structure_break_stones_rock_apart_004_93023.wav",
+      "sha256": "0d9b42222f2acd12bf6f93a5a277a149df0aa47a4a65a7f378e8e2f22e491cbb",
+      "sekunden": 2.727
+    },
+    {
+      "quelle": "master_of_dreams_explosion_381.wav",
+      "sha256": "dea8580d2ac10486ea42d431d9222f9aaed906aa98acf25e6baa9fb9cd968f42",
+      "sekunden": 7.081
+    },
+    {
+      "quelle": "zapsplat_pack_sci_fi_emergency_alarms_wav.zip:zapsplat_pack_sci_fi_emergency_alarms_wav/zapsplat_science_fiction_alarm_high_pitched_ringing_114809.wav",
+      "sha256": "74ec8b7e34471b865d7c7f362fa55bfb56dd588c436a317379b14e43b188275f",
+      "sekunden": 17.143
+    },
+    {
+      "quelle": "heal.wav",
+      "sha256": "22bd4927be136fe7929dcd6397c868712e0d6dd3a123dc7a43b189cd2acf87d1",
+      "sekunden": 2.875
+    },
+    {
+      "quelle": "zapsplat_pack_garage_door_wav.zip:zapsplat_pack_garage_door_wav/zapsplat_household_door_garage_metal_close_001_95821.wav",
+      "sha256": "304527ae5d073fdc0ff97292623eb8f0eda81910fda8859fa44ec711d08ec80c",
+      "sekunden": 4.401
+    },
+    {
+      "quelle": "gma_voice_male_b_death_low_05_1200.wav",
+      "sha256": "c904f87b93ecf93b95ccd9b409231ebb2d2bf05e001a1a156dff6952804825aa",
+      "sekunden": 3.024
+    },
+    {
+      "quelle": "gma_voice_male_b_death_low_09_1204.wav",
+      "sha256": "10df3ff0b7d50b1a494ea1666dab16ae37d02579b791e9c44194fef8668aa5ce",
+      "sekunden": 5.52
+    },
+    {
+      "quelle": "gma_voice_male_b_death_low_08_1203.wav",
+      "sha256": "7b96e4162241c03ca60487166e47cfe099b9632adf5b487f6f5aa3df2c302b89",
+      "sekunden": 5.712
+    },
+    {
+      "quelle": "gma_voice_male_b_death_high_07_1195.wav",
+      "sha256": "38227a98ba08fbbdfeb5dcc929432790817ac5bca43bf260df878331237ce56c",
+      "sekunden": 1.2
+    },
+    {
+      "quelle": "gma_voice_male_b_death_low_02_1197.wav",
+      "sha256": "0af6b75ec2f31a986eddd71e18e5d2973a31aa68389441bb6b3b820c8f2be97a",
+      "sekunden": 1.056
+    },
+    {
+      "quelle": "gma_voice_male_b_death_low_03_1198.wav",
+      "sha256": "0efdcafa49075af9647325ae23d4e2742d4d7d1f67d3a8d6c0aa69bd7cc844df",
+      "sekunden": 2.016
+    },
+    {
+      "quelle": "zapsplat_pack_sci_fi_emergency_alarms_wav.zip:zapsplat_pack_sci_fi_emergency_alarms_wav/zapsplat_science_fiction_alarm_small_digital_beeps_114822.wav",
+      "sha256": "a2d01cec4e729a0a506a0ff674379f6b034f63336a775dc38f17aea299c76829",
+      "sekunden": 12.607
+    },
+    {
+      "quelle": "zapsplat_pack_garage_door_wav.zip:zapsplat_pack_garage_door_wav/zapsplat_household_door_garage_wooden_side_door_handle_turn_single_click_002_97039.wav",
+      "sha256": "c74af4cd6a1b83aaa080e0cf32f7732fdb0487aebe18022302d0287295a51876",
+      "sekunden": 0.333
+    },
+    {
+      "quelle": "gma_cave_ambience_loop_01_260.wav",
+      "sha256": "8c3e1af4865a046ea19175cea8c39fd85fc768955818d509388a2639f9766eec",
+      "sekunden": 19.824
+    },
+    {
+      "quelle": "344_audio_int_haunted_sewers_roomtone_below_traffic_rumble_distant_810.wav",
+      "sha256": "81959a9030b72c6de4f016daa31411c0f793a86b85fbb3ba111cda4c9c6fb6d9",
+      "sekunden": 180.0
+    },
+    {
+      "quelle": "344_audio_Pigeons_Flying_Tunnel_Canal_1819.wav",
+      "sha256": "bfbe41059ba94c61d832505ba00cd543257f6d0387df61de601d0eaf1a29822e",
+      "sekunden": 3.635
+    },
+    {
+      "quelle": "344_audio_Pigeons_Flying_Tunnel_Stamping_Canal_1820.wav",
+      "sha256": "d75451eddf3528a7c0b78203afb63e14158f0d9f847f01ad431f5877405ca75c",
+      "sekunden": 60.0
+    },
+    {
+      "quelle": "zapsplat_pack_boxing_punch_sounds_wav.zip:zapsplat_pack_boxing_punch_sounds_wav/zapsplat_impact_boxing_glove_punch_hit_face_body_crunchy_hit_004_79326.wav",
+      "sha256": "45d8dfab32194bbf8097efd6882f00b1a7145b549318adc26aeebfcb7574dbd1",
+      "sekunden": 0.354
+    },
+    {
+      "quelle": "zapsplat_pack_boxing_punch_sounds_wav.zip:zapsplat_pack_boxing_punch_sounds_wav/zapsplat_impact_boxing_glove_punch_hit_face_body_crunchy_hit_010_79332.wav",
+      "sha256": "bd21870a329c031791aa51e3e06a7d61de1d8efd2e7a59ca9f033f37c23cd5dc",
+      "sekunden": 0.463
+    },
+    {
+      "quelle": "zapsplat_pack_boxing_punch_sounds_wav.zip:zapsplat_pack_boxing_punch_sounds_wav/zapsplat_impact_boxing_glove_punch_hit_face_body_crunchy_hit_011_79333.wav",
+      "sha256": "e9124cd47ce374549fcf561f5e08557b6ca11993a3e10d0b620d796f4cea03ec",
+      "sekunden": 0.417
+    },
+    {
+      "quelle": "zapsplat_pack_ott_punch_sounds_wav.zip:zapsplat_pack_ott_punch_sounds_wav/zapsplat_human_punch_smack_crunch_001_62752.wav",
+      "sha256": "958cc12ec432aee67e22538ee286c4355a5697ea08a42948a16b8dc883556a38",
+      "sekunden": 0.502
+    },
+    {
+      "quelle": "zapsplat_pack_ott_punch_sounds_wav.zip:zapsplat_pack_ott_punch_sounds_wav/zapsplat_human_punch_smack_crunch_002_62753.wav",
+      "sha256": "9a0619401a0efed2c3c3a209aadb5a28350d2711a756a8d8351454cf6beb9d3c",
+      "sekunden": 0.546
+    },
+    {
+      "quelle": "zapsplat_horror_creature_monster_bite_each_chunk_crunch_002_50004.wav",
+      "sha256": "be409494481f82f081c49959d16154beea3dc288412ac537dc8f4ddceb2399d9",
+      "sekunden": 1.241
+    },
+    {
+      "quelle": "zapsplat_horror_creature_single_bite_crunch_large_003_50010.wav",
+      "sha256": "60951f4383bbd8633f25db70221ba3aa3d1377e43795e8a37bcd1f408ea24540",
+      "sekunden": 0.54
+    },
+    {
+      "quelle": "zapsplat_horror_creature_single_bite_crunch_large_002_50009.wav",
+      "sha256": "fd5414f2d42547ca2dde03d4ecf1231c386ede1aa7455c64735cdd70c40b181c",
+      "sekunden": 0.818
+    },
+    {
+      "quelle": "zapsplat_pack_knife_blade_scrapes_wav.zip:zapsplat_pack_knife_blade_scrapes_wav/zapsplat_warfare_knife_slide_scrape_on_steel_metal_thin_fast_001_110464.wav",
+      "sha256": "031dba405e9a4735978f33a7010a2777c5c9e91f14bdd72923bbf2fb34c5bbdb",
+      "sekunden": 0.45
+    },
+    {
+      "quelle": "zapsplat_pack_knife_blade_scrapes_wav.zip:zapsplat_pack_knife_blade_scrapes_wav/zapsplat_warfare_knife_slide_scrape_on_steel_metal_thin_fast_002_110465.wav",
+      "sha256": "e0ec5c13f305c4e8f98d6eb36a6765ec37f427ddabd04b6b621a60a64ee62573",
+      "sekunden": 0.635
+    },
+    {
+      "quelle": "zapsplat_pack_knife_blade_scrapes_wav.zip:zapsplat_pack_knife_blade_scrapes_wav/zapsplat_warfare_knife_blade_scrape_on_another_knife_confident_fast_110439.wav",
+      "sha256": "b037ceb0c77077201df594b27226e4f1c35d7154a482c84c10e0e29c1c55ff3a",
+      "sekunden": 0.636
+    },
+    {
+      "quelle": "zapsplat_animals_cat_scratch_claws_on_wicker_furniture.wav",
+      "sha256": "3d3987a05a810639394834311ff75d935aceff86d01626bf8ea57fc9e3ddbaf0",
+      "sekunden": 6.0
+    },
+    {
+      "quelle": "zapsplat_nature_fire_flame_short_bursts_flamethrower_aerosol_89009.wav",
+      "sha256": "724c7f30fc5041c31c9f80b21524b38fe5c10fa08d80c2a9e24fcf9935481d53",
+      "sekunden": 4.22
+    },
+    {
+      "quelle": "gma_bow_crossbow_place_arrow_load_02_083.wav",
+      "sha256": "b4c8535cadeb9d1fde9de7684bd0810ee48c0d38478a8b8d90ba0eceb6d126e2",
+      "sekunden": 0.288
+    },
+    {
+      "quelle": "smartsound_ELECTRICITY_BUZZ_Fluorescent_Lamp_Fast_01.wav",
+      "sha256": "a3e2856572487d9217a1249cf3ec8aa940cba03a05c4aaf33e396feb7c64bc38",
+      "sekunden": 3.784
+    }
+  ],
+  "format": "PCM 16 Bit / Stereo / 48000 Hz",
+  "nahkampf.wav": {
+    "quelle": "Prozedural erzeugt mit Quellcode/kampfklaenge.py",
+    "ereignis": "nahkampf",
+    "schleife": false
+  },
+  "klinge.wav": {
+    "quelle": "Prozedural erzeugt mit Quellcode/kampfklaenge.py",
+    "ereignis": "klinge",
+    "schleife": false
+  },
+  "bolzen.wav": {
+    "quelle": "Prozedural erzeugt mit Quellcode/kampfklaenge.py",
+    "ereignis": "bolzen",
+    "schleife": false
+  },
+  "flamme.wav": {
+    "quelle": "Prozedural erzeugt mit Quellcode/kampfklaenge.py",
+    "ereignis": "flamme",
+    "schleife": false
+  },
+  "faust_1.wav": {
+    "ereignis": "Faustschlag bei Körperkontakt",
+    "quellen": [
+      "zapsplat_pack_boxing_punch_sounds_wav.zip:zapsplat_pack_boxing_punch_sounds_wav/zapsplat_impact_boxing_glove_punch_hit_face_body_crunchy_hit_004_79326.wav"
+    ],
+    "sekunden": 0.244,
+    "peak_dbfs": -9.92,
+    "rms_dbfs": -21.0,
+    "schleife": false
+  },
+  "faust_2.wav": {
+    "ereignis": "Faustschlag bei Körperkontakt",
+    "quellen": [
+      "zapsplat_pack_boxing_punch_sounds_wav.zip:zapsplat_pack_boxing_punch_sounds_wav/zapsplat_impact_boxing_glove_punch_hit_face_body_crunchy_hit_010_79332.wav"
+    ],
+    "sekunden": 0.352,
+    "peak_dbfs": -3.0,
+    "rms_dbfs": -21.69,
+    "schleife": false
+  },
+  "faust_3.wav": {
+    "ereignis": "Faustschlag bei Körperkontakt",
+    "quellen": [
+      "zapsplat_pack_boxing_punch_sounds_wav.zip:zapsplat_pack_boxing_punch_sounds_wav/zapsplat_impact_boxing_glove_punch_hit_face_body_crunchy_hit_011_79333.wav"
+    ],
+    "sekunden": 0.313,
+    "peak_dbfs": -6.98,
+    "rms_dbfs": -21.0,
+    "schleife": false
+  },
+  "kreatur_stoss_1.wav": {
+    "ereignis": "Körperstoß einer Kreatur",
+    "quellen": [
+      "zapsplat_pack_ott_punch_sounds_wav.zip:zapsplat_pack_ott_punch_sounds_wav/zapsplat_human_punch_smack_crunch_001_62752.wav"
+    ],
+    "sekunden": 0.353,
+    "peak_dbfs": -10.88,
+    "rms_dbfs": -21.0,
+    "schleife": false
+  },
+  "kreatur_stoss_2.wav": {
+    "ereignis": "Körperstoß einer Kreatur",
+    "quellen": [
+      "zapsplat_pack_ott_punch_sounds_wav.zip:zapsplat_pack_ott_punch_sounds_wav/zapsplat_human_punch_smack_crunch_002_62753.wav"
+    ],
+    "sekunden": 0.405,
+    "peak_dbfs": -11.24,
+    "rms_dbfs": -21.0,
+    "schleife": false
+  },
+  "kreatur_biss_1.wav": {
+    "ereignis": "Biss einer Kreatur",
+    "quellen": [
+      "zapsplat_horror_creature_monster_bite_each_chunk_crunch_002_50004.wav"
+    ],
+    "sekunden": 0.438,
+    "peak_dbfs": -3.0,
+    "rms_dbfs": -21.34,
+    "schleife": false
+  },
+  "kreatur_biss_2.wav": {
+    "ereignis": "Biss einer Kreatur",
+    "quellen": [
+      "zapsplat_horror_creature_single_bite_crunch_large_003_50010.wav"
+    ],
+    "sekunden": 0.458,
+    "peak_dbfs": -3.76,
+    "rms_dbfs": -21.0,
+    "schleife": false
+  },
+  "kreatur_biss_3.wav": {
+    "ereignis": "Biss einer Kreatur",
+    "quellen": [
+      "zapsplat_horror_creature_single_bite_crunch_large_002_50009.wav"
+    ],
+    "sekunden": 0.532,
+    "peak_dbfs": -3.59,
+    "rms_dbfs": -21.0,
+    "schleife": false
+  },
+  "klinge_1.wav": {
+    "ereignis": "Messerangriff",
+    "quellen": [
+      "zapsplat_pack_knife_blade_scrapes_wav.zip:zapsplat_pack_knife_blade_scrapes_wav/zapsplat_warfare_knife_slide_scrape_on_steel_metal_thin_fast_001_110464.wav"
+    ],
+    "sekunden": 0.276,
+    "peak_dbfs": -7.29,
+    "rms_dbfs": -24.0,
+    "schleife": false
+  },
+  "klinge_2.wav": {
+    "ereignis": "Messerangriff",
+    "quellen": [
+      "zapsplat_pack_knife_blade_scrapes_wav.zip:zapsplat_pack_knife_blade_scrapes_wav/zapsplat_warfare_knife_slide_scrape_on_steel_metal_thin_fast_002_110465.wav"
+    ],
+    "sekunden": 0.26,
+    "peak_dbfs": -4.43,
+    "rms_dbfs": -24.0,
+    "schleife": false
+  },
+  "klinge_3.wav": {
+    "ereignis": "Messerangriff",
+    "quellen": [
+      "zapsplat_pack_knife_blade_scrapes_wav.zip:zapsplat_pack_knife_blade_scrapes_wav/zapsplat_warfare_knife_blade_scrape_on_another_knife_confident_fast_110439.wav"
+    ],
+    "sekunden": 0.365,
+    "peak_dbfs": -7.28,
+    "rms_dbfs": -24.0,
+    "schleife": false
+  },
+  "kreatur_klaue_1.wav": {
+    "ereignis": "Klauenangriff",
+    "quellen": [
+      "zapsplat_animals_cat_scratch_claws_on_wicker_furniture.wav"
+    ],
+    "sekunden": 0.454,
+    "peak_dbfs": -4.74,
+    "rms_dbfs": -23.0,
+    "schleife": false,
+    "bearbeitung": "Einzelner Kratzer ab 0.18 s, leicht tiefer mit Faktor 0.86, Spitzen weich begrenzt."
+  },
+  "kreatur_klaue_2.wav": {
+    "ereignis": "Klauenangriff",
+    "quellen": [
+      "zapsplat_animals_cat_scratch_claws_on_wicker_furniture.wav"
+    ],
+    "sekunden": 0.36,
+    "peak_dbfs": -4.92,
+    "rms_dbfs": -23.0,
+    "schleife": false,
+    "bearbeitung": "Einzelner Kratzer ab 0.87 s, leicht tiefer mit Faktor 0.9, Spitzen weich begrenzt."
+  },
+  "kreatur_klaue_3.wav": {
+    "ereignis": "Klauenangriff",
+    "quellen": [
+      "zapsplat_animals_cat_scratch_claws_on_wicker_furniture.wav"
+    ],
+    "sekunden": 0.453,
+    "peak_dbfs": -6.88,
+    "rms_dbfs": -23.0,
+    "schleife": false,
+    "bearbeitung": "Einzelner Kratzer ab 2.55 s, leicht tiefer mit Faktor 0.82, Spitzen weich begrenzt."
+  },
+  "flammenstoss_1.wav": {
+    "ereignis": "Kurzer Flammenwerferstoß",
+    "quellen": [
+      "zapsplat_nature_fire_flame_short_bursts_flamethrower_aerosol_89009.wav"
+    ],
+    "sekunden": 0.47,
+    "peak_dbfs": -7.7,
+    "rms_dbfs": -23.0,
+    "schleife": false
+  },
+  "flammenstoss_2.wav": {
+    "ereignis": "Kurzer Flammenwerferstoß",
+    "quellen": [
+      "zapsplat_nature_fire_flame_short_bursts_flamethrower_aerosol_89009.wav"
+    ],
+    "sekunden": 0.5,
+    "peak_dbfs": -7.69,
+    "rms_dbfs": -23.0,
+    "schleife": false
+  },
+  "armbrust_schuss.wav": {
+    "ereignis": "Bolzenschuss und anschließender Ladegriff",
+    "quellen": [
+      "Prozeduraler Bolzenklang aus Quellcode/kampfklaenge.py",
+      "gma_bow_crossbow_place_arrow_load_02_083.wav"
+    ],
+    "sekunden": 0.53,
+    "peak_dbfs": -3.0,
+    "rms_dbfs": -24.46,
+    "schleife": false,
+    "bearbeitung": "Abschuss bei 0 s; echter Lademechanismus ab 0,22 s."
+  },
+  "licht_start.wav": {
+    "ereignis": "Tunnellampen schalten nach der Toröffnung ein",
+    "quellen": [
+      "smartsound_ELECTRICITY_BUZZ_Fluorescent_Lamp_Fast_01.wav"
+    ],
+    "sekunden": 1.9,
+    "peak_dbfs": -4.0,
+    "rms_dbfs": -28.0,
+    "schleife": false,
+    "bearbeitung": "Kurze flackernde Einschaltfolge, einmalig, ohne Dauerschleife."
+  }
+}

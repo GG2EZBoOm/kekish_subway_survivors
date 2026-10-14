@@ -1,0 +1,114 @@
+KEKISH SUBWAY SURVIVORS
+Eigenständiges Spielpaket für Windows 10/11 (64 Bit)
+
+START
+Die ZIP vollständig in einen beschreibbaren Ordner entpacken und dort
+„Kekish Subway Survivors.exe“ doppelt anklicken. Alle Unterordner zusammenlassen.
+Es ist keine Installation nötig. Die Versionsnummer steht im Hauptmenü.
+Dieses Paket enthält alle benötigten Spieldateien einschließlich Musik, Sounds,
+beider Intros und der englischen Übersetzung. Medien sind unverändert enthalten.
+
+AUTOMATISCHE UPDATES
+Nach den Intros bleibt das Metro-Tor zur Update-Prüfung geschlossen. Neue oder
+geänderte Dateien werden aus GG2EZBoOm/kekish_subway_survivors geladen und vor
+dem Einspielen per SHA-256 geprüft. Der Fortschritt erscheint direkt am Tor.
+Nach einer Aktualisierung startet das Spiel ohne erneute Intros neu; anschließend
+öffnet sich das Tor. Spielstände und Einstellungen werden nicht ersetzt.
+Ohne Verbindung startet nach einem Hinweis der vorhandene Stand.
+Die Datei manifest.json muss neben der EXE bleiben. Bitte nicht direkt aus der ZIP starten.
+
+QUICK START (ENGLISH)
+Extract the entire ZIP to a writable folder, then open “Kekish Subway Survivors.exe”.
+Keep its subfolders together. Windows 10/11, 64-bit; no installation required.
+Use Options > Language to choose English or German. Press F1 for the game guide.
+All players in a multiplayer game need the same game version.
+Saves and settings are stored next to the executable; this package contains none.
+Updates are checked behind the closed Metro gate after the intros. Changed files
+are downloaded from GG2EZBoOm/kekish_subway_survivors and verified before installing.
+The game restarts after an update, skips the intros, then opens the gate.
+Without a connection, the existing game starts after a short notice.
+Keep manifest.json next to the executable. Saved games and settings are preserved.
+
+SPIELEN
+„Neues Spiel“ startet gegen die KI. Es gibt 2–8 Plätze und eine unbegrenzte
+Spiellänge oder ein Limit von 40 bzw. 25 Runden.
+Alle spielen gleichzeitig in drei Phasen:
+  1 Bau · Bewegung · Handel: bauen, anheuern, ausrüsten, bewegen und handeln.
+  2 Expedition: erkunden, kämpfen, Hinterhalte und Stationsangriffe.
+  3 Invasion: Invasionskarten und Nuke.
+Wer fertig ist, klickt auf „Phase beenden“ oder drückt die Leertaste.
+Die vollständige Anleitung ist im Spiel über F1 erreichbar.
+
+BEDIENUNG
+Einheiten anklicken, dann ein erlaubtes Ziel: Zone, Basis, Vorbereitung oder Ausgang.
+Mehrere Einheiten nacheinander anklicken, um sie gemeinsam zu bewegen.
+Maus über Figuren, Karten, Gebäude und Aktionen halten, um Details zu sehen.
+Gebäude anklicken zum Ausbauen oder Abreißen; Lagerkarte anklicken für Aktionen.
+Angelegte Ausrüstung bleibt bei der Rückkehr am Ranger, zusätzliche Beute geht ins Lager.
+Zum Umbenennen der Station auf ihren Namen mit dem Stiftsymbol klicken.
+  Leertaste: Phase beenden       Enter: Kämpfen / Weiter
+  Rechtsklick: Auswahl aufheben  Esc: Menü
+  F1: Anleitung                 F11: Vollbild
+  M: Ton an/aus                 Mausrad: blättern
+Im Kampf springen „Alles zeigen“, Enter oder Leertaste zum Ergebnis.
+Stationsangriffe zeigen den befestigten Eingang, die Angreifer und die Verteidigung.
+Stationswachen und DShK-MGs haben eigene Darstellungen. Abgewehrte Mutanten-Invasionen
+werden am geschlossenen hermetischen Tor gezeigt. Auch der Auslöser einer Invasion
+sieht den Bericht; der letzte Kampf bleibt vor dem Siegbildschirm sichtbar.
+
+SPRACHE, TON UND INTROS
+Unter Optionen lassen sich Deutsch/Englisch, Musik- und Effekte-Lautstärke,
+Stummschaltung, Vollbild und Discord-Status einstellen.
+Die Sprache richtet sich beim ersten Start nach Windows; die Wahl wird gespeichert.
+Vor dem Hauptmenü laufen die beiden Intros, danach öffnet sich das Metro-Tor.
+Esc überspringt die Intros; Enter/Leertaste überspringt das aktuelle Video.
+Das Tor lässt sich mit Esc, Enter, Leertaste oder einem Klick überspringen.
+Nach dem Öffnen schalten sich die Tunnellampen kurz flackernd ein; die Kamera fährt
+langsam durch den Tunnel. Das Menü bleibt dabei fest und bedienbar.
+Alle Kreaturen wurden im gezeichneten Stil detaillierter ausgearbeitet. Unbewaffnete
+Ranger schlagen zu; Kreaturen beißen, schlagen oder greifen mit Klauen an.
+Nur sichtbare Schusswaffen schießen. Bolzen und Flammen haben eigene Effekte und Klänge.
+Faustschläge, Klingen, Bisse, Klauen und Körperstöße nutzen kurze Aufnahmevarianten.
+Der Flammenwerfer hat echte Feuerstöße; bei der Armbrust folgt auf den Bolzenklang
+ein echter Ladegriff. Kreaturenklänge bleiben um 15 Prozent abgesenkt.
+Das elektrische Einschaltgeräusch der Lampen ertönt einmal nach der Toröffnung.
+Die Musik läuft in zufälliger Reihenfolge; die Menüatmosphäre läuft als Schleife.
+
+NETZWERKSPIEL UND DISCORD
+„Spiel hosten“ öffnet eine Lobby. Plätze für Freunde auf „Netzwerk“ stellen.
+Der Host teilt die passende Adresse aus der Lobby; Freunde nutzen „Spiel beitreten“.
+Standardport: TCP 47820. Alle Mitspieler brauchen dieselbe Spielversion.
+Für Internetspiele muss die Host-Adresse erreichbar sein: über eine Portfreigabe
+(automatisch per UPnP, wenn der Router es erlaubt, oder manuell) bzw. ein gemeinsames VPN.
+Bei einem VPN die zugehörige Adresse auswählen. Eine erforderliche Windows-Firewall-
+Freigabe beim Hosten erlauben. Ohne öffentliche IPv4 kann ein gemeinsames VPN nötig sein.
+
+Für Discord-Einladungen Discord starten und den Discord-Status unter Optionen aktivieren.
+In der Lobby einen Netzwerkplatz freihalten und die passende Discord-Adresse wählen.
+„Über Discord einladen“ öffnet Discord; dort im gewünschten Chat über + die Spieleinladung
+senden. Freunde klicken „Beitreten“. Jeder muss diese Spielversion einmal gestartet haben.
+Die Discord-Anwendungs-ID ist bereits eingebaut. Discord vermittelt Einladungen;
+die Netzwerkverbindung zum Host muss weiterhin erreichbar sein.
+Fehlt eine Voraussetzung, zeigt der Einladungsknopf beim Klick den konkreten Grund an.
+
+SPIELSTÄNDE UND UMZUG AUS EINEM ÄLTEREN ORDNER
+Automatische Spielstände: metro_spielstand.json neben der EXE.
+Eigene benannte Spielstände: Unterordner spielstaende.
+Persönliche Einstellungen: metro_einstellungen.json.
+Das Spielpaket enthält keine persönlichen Spielstände oder Einstellungen.
+Um die eigene Partie im neuen Ordner fortzusetzen: bisheriges Spiel speichern und
+schließen, anschließend diese Dateien und gegebenenfalls den Ordner spielstaende
+aus dem bisherigen Spielordner in den neuen kopieren. Die bisherigen Dateien aufbewahren.
+
+PAKETINHALT
+metro_karten.json  Spielwerte und Karten.
+musik             Hintergrundmusik.
+sounds            Alle verwendeten Effekte und die Menüatmosphäre.
+videos            Beide Intro-Videos.
+sprachen          Englische Übersetzung; Deutsch ist eingebaut.
+Lizenzen          Lizenz der verwendeten JSON-Bibliothek.
+Paketinhalt.json   Dateiliste mit Größen und SHA-256-Prüfsummen.
+Grafiken und Animationen zeichnet das Spiel selbst; zusätzliche PNG-Dateien sind unnötig.
+
+Lizenz: LICENSE.txt. JSON-Bibliothek: Lizenzen/nlohmann-json-LICENSE.MIT.
+Mediennachweise: sounds/quellen.json und videos/quellen.json.
