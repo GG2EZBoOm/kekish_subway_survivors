@@ -276,6 +276,13 @@
     "sparta": {"name": "Sparta-Basis", "plaetze": 4, "nahrung": 25, "patronen": 50, "garnison": {"spartaner": 3}},
     "hanse": {"name": "Hanse-Station", "plaetze": 0},
     "militaer": {"name": "Militärbasis", "plaetze": 4, "patronen": 25},
-    "vergessen": {"name": "Vergessene Station", "plaetze": 3, "nahrung": 25, "patronen": 25, "verteidigung": {"name": "Wachposten", "a": 2, "l": 2, "anzahl": 1}}
+    "vergessen": {"name": "Vergessene Station", "plaetze": 3, "nahrung": 25, "patronen": 25, "verteidigung": {"name": "Wachposten", "a": 2, "l": 2, "anzahl": 1}},
+    "polis": {"name": "Polis", "metroplan": true, "plaetze": 4, "nahrung": 25, "patronen": 75, "garnison": {"elitesoeldner": 2, "feindsoeldner": 1}},
+    "kitai_gorod": {"name": "Kitai-Gorod", "metroplan": true, "plaetze": 3, "nahrung": 0, "patronen": 50, "garnison": {"bandit": 2, "pluenderer": 2}},
+    "teatralnaja": {"name": "Teatralnaja", "metroplan": true, "plaetze": 3, "nahrung": 25, "patronen": 25, "garnison": {"feindsoeldner": 2}},
+    "tretjakowskaja": {"name": "Tretjakowskaja", "metroplan": true, "plaetze": 3, "nahrung": 25, "patronen": 50, "garnison": {"bandit": 2, "feindsoeldner": 1}},
+    "park_pobedy": {"name": "Park Pobedy", "metroplan": true, "plaetze": 3, "nahrung": 50, "patronen": 0, "garnison": {"pluenderer": 3}},
+    "wdnch": {"name": "WDNCh", "metroplan": true, "plaetze": 3, "nahrung": 50, "patronen": 25, "garnison": {"bandit": 1, "pluenderer": 2}},
+    "smolenskaja": {"name": "Smolenskaja", "metroplan": true, "plaetze": 3, "nahrung": 25, "patronen": 25, "garnison": {"bandit": 2, "pluenderer": 1}}
   }
 }

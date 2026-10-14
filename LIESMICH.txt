@@ -34,6 +34,8 @@ SPIELEN
 Spiellänge oder ein Limit von 40 bzw. 25 Runden.
 In der Lobby lässt sich außerdem einstellen, mit wie vielen Rangern (1–10) jede
 Station am Ausgang startet; jeder Ranger kostet Nahrung pro Runde.
+Für jede KI lässt sich die Schwierigkeit wählen (Knopf neben „KI“): Leicht, Mittel,
+Schwierig oder Experte. Schwierig und Experte greifen früher an und erhalten mehr Ertrag.
 Alle spielen gleichzeitig in drei Phasen:
   1 Bau · Bewegung · Handel: bauen, anheuern, ausrüsten, bewegen und handeln.
   2 Expedition: erkunden, kämpfen, Hinterhalte und Stationsangriffe.
@@ -50,7 +52,10 @@ Angelegte Ausrüstung bleibt bei der Rückkehr am Ranger, zusätzliche Beute geh
 Zum Umbenennen der Station auf ihren Namen mit dem Stiftsymbol klicken.
 Jede eigene Station – auch eine eroberte – hat Basis, Vorbereitung und Ausgang. Die
 Knöpfe oben rechts im Stationsbereich wechseln zwischen den Stationen. Stationsangriffe
-gehen vom Ausgang der jeweiligen Station aus.
+gehen vom Ausgang der jeweiligen Station aus. Wird ein Ausgang überfallen, feuern die
+Geschütze (DShK) dieser Station mit.
+Waffen, Rüstungen und Ausrüstung lassen sich auch direkt aus dem Lager auf einen Ranger
+in Basis oder Vorbereitung ziehen.
   Leertaste: Phase beenden       Enter: Kämpfen / Weiter
   Rechtsklick: Auswahl aufheben  Esc: Menü
   F1: Anleitung                 F11: Vollbild
@@ -111,6 +116,8 @@ Zu Beginn jeder Runde entsteht ein neues Liniennetz nach Moskauer Vorbild: Radia
 eine Ringlinie, Umsteigebahnhöfe und Halte; die Hanse liegt auf dem Ring.
 Taste P oder „Plan“ oben rechts zeigt den Plan der Runde.
 Die Größe des Netzes (Winzig, Klein, Standard, Groß, Riesig) wird in der Lobby gewählt.
+Sie bestimmt auch die neutralen Stationen: Neben der Sparta-Basis gibt es 0, 1, 2, 4 bzw. 6
+weitere (z. B. Polis, Kitai-Gorod, WDNCh) mit eigener Garnison und Ertrag für den Eroberer.
 Vom Ausgang lassen sich nur Nachbarstationen angreifen, also die nächste Spielstation
 in jeder Fahrtrichtung einer Linie durch eine eigene Station.
 Ein Trupp in einer Zone kann jede Station über die Oberfläche angreifen (Aufmerksamkeit −1).

@@ -1,20 +1,20 @@
 {
   "format": "kekish-subway-windows-v1",
   "platform": "windows-x86_64",
-  "version": "1.0.51",
-  "build_id": "e0d3f3b96b5cea3fcf711d356cbf36e8e7ade2c67beca7ad20f77c857bb810fb",
+  "version": "1.0.53",
+  "build_id": "60560782cb4500621db70381d2bc87f42d572cdbe96597ab7a3bfa2efd59cdf2",
   "files": {
     "Kekish Subway Survivors.exe": {
-      "bytes": 2430464,
-      "sha256": "89c6d85466db4ef2f6fca5cc29fca3cee7fefbfb8317f49bdd1403b27bffae79"
+      "bytes": 2457600,
+      "sha256": "d40037b3749df0ba55e725eb7b8655ba08755cef69ffdbb5fc273681b6de83cf"
     },
     "LICENSE.txt": {
       "bytes": 3403,
       "sha256": "1c7e850be991a77833425109f9b07c8f28c826a198ff1223e69c82f08bc6c758"
     },
     "LIESMICH.txt": {
-      "bytes": 8573,
-      "sha256": "cac5971d01f4086a293522c586f5ad2673fd9a291d66100f88e79d97fa7d0653"
+      "bytes": 9144,
+      "sha256": "0085e486e075b8e4616eeed927f745bf62832ba387b4546da89c14e97cd8fbfc"
     },
     "Lizenzen/nlohmann-json-LICENSE.MIT": {
       "bytes": 1076,
@@ -22,11 +22,11 @@
     },
     "Paketinhalt.json": {
       "bytes": 17040,
-      "sha256": "ea00f95a75ef7bd06ead89e9463b8bc31fa8757b8630e0d49f0a0823fc6c6206"
+      "sha256": "feb3e3aa08347cf5b2e1ccc88e5e50e00aa8e00adf32cdb2d23a649b757ef84a"
     },
     "metro_karten.json": {
-      "bytes": 30732,
-      "sha256": "32837b44593bd7ae1b95866d47cc53abc9b5110ae5446b33a3cce417a7f210cb"
+      "bytes": 31766,
+      "sha256": "81111d3a0481d5e563e3a0ad1590b0f619b3a27ae04329053d8f9638245de637"
     },
     "musik/01_outer_space.m4a": {
       "bytes": 3302750,
@@ -397,8 +397,8 @@
       "sha256": "99ffb58d4272b542ecb9e83d534fec274dfe80e233a98078bf0eeb8fd9a7bfe6"
     },
     "sprachen/en.json": {
-      "bytes": 100081,
-      "sha256": "fcbc95738de7d80af302410c603bb3aec9b437a066a92c13eae3b25f9ea2fb8a"
+      "bytes": 102205,
+      "sha256": "550a00f8658220411ca0135771543aff057ab6ed35454d8639dc74b2dde806dc"
     },
     "videos/01_Kek_Engine.mp4": {
       "bytes": 6377586,

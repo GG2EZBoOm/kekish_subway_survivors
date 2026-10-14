@@ -1,12 +1,12 @@
 {
   "format": "kekish-subway-windows-v1",
   "platform": "windows-x86_64",
-  "version": "1.0.51",
-  "build_id": "cc56064093077f7ef8ce6f720ffd8d4ead171a57861a6dca4af2df84c16e02bd",
+  "version": "1.0.53",
+  "build_id": "29c078836d4a6fce1146e714a5f0589f95ca38d7f10667316da9a93e9a3ada0a",
   "files": {
     "Kekish Subway Survivors Metroplan.exe": {
-      "bytes": 2430464,
-      "sha256": "58433094abec19662b677447427d0e61e6ae13e6bf277b48cd3bb72509a3760b"
+      "bytes": 2460672,
+      "sha256": "75ffa737fbaa4603c019a45c12f709f50e817272de359561a0a6aea107fa7b49"
     }
   }
 }
