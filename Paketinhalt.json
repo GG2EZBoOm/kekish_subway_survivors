@@ -1,6 +1,6 @@
 {
   "spiel": "Kekish Subway Survivors",
-  "version": "1.0.50",
+  "version": "1.0.51",
   "inhalt": {
     "effekte": 84,
     "musik": 7,
@@ -10,8 +10,8 @@
   "dateien": [
     {
       "datei": "Kekish Subway Survivors.exe",
-      "bytes": 2428416,
-      "sha256": "c1f6a91d1cebf049c9c2d3f38ff5c9778b9f17f57c7af967c882389b1fa0050f"
+      "bytes": 2430464,
+      "sha256": "89c6d85466db4ef2f6fca5cc29fca3cee7fefbfb8317f49bdd1403b27bffae79"
     },
     {
       "datei": "LICENSE.txt",
@@ -20,8 +20,8 @@
     },
     {
       "datei": "LIESMICH.txt",
-      "bytes": 7563,
-      "sha256": "ec2a1b7f0b1791ee5b9c3ae54dad92f324395613b3160503e92a04c31229d08a"
+      "bytes": 8573,
+      "sha256": "cac5971d01f4086a293522c586f5ad2673fd9a291d66100f88e79d97fa7d0653"
     },
     {
       "datei": "Lizenzen/nlohmann-json-LICENSE.MIT",
@@ -512,6 +512,11 @@
       "datei": "videos/quellen.json",
       "bytes": 431,
       "sha256": "cd5339e71861fc229ea9acb9f8f8f6b825afe8bf1015dff8b5263b003be1f9f6"
+    },
+    {
+      "datei": "Kekish Subway Survivors Metroplan.exe",
+      "bytes": 2430464,
+      "sha256": "58433094abec19662b677447427d0e61e6ae13e6bf277b48cd3bb72509a3760b"
     }
   ]
 }

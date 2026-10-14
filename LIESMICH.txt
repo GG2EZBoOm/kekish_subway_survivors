@@ -105,8 +105,22 @@ Um die eigene Partie im neuen Ordner fortzusetzen: bisheriges Spiel speichern un
 schließen, anschließend diese Dateien und gegebenenfalls den Ordner spielstaende
 aus dem bisherigen Spielordner in den neuen kopieren. Die bisherigen Dateien aufbewahren.
 
+METROPLAN-TESTBUILD
+„Kekish Subway Survivors Metroplan.exe“ ist ein eigener Testbuild mit variablem Metroplan.
+Zu Beginn jeder Runde entsteht ein neues Liniennetz nach Moskauer Vorbild: Radiallinien,
+eine Ringlinie, Umsteigebahnhöfe und Halte; die Hanse liegt auf dem Ring.
+Taste P oder „Plan“ oben rechts zeigt den Plan der Runde.
+Die Größe des Netzes (Winzig, Klein, Standard, Groß, Riesig) wird in der Lobby gewählt.
+Vom Ausgang lassen sich nur Nachbarstationen angreifen, also die nächste Spielstation
+in jeder Fahrtrichtung einer Linie durch eine eigene Station.
+Ein Trupp in einer Zone kann jede Station über die Oberfläche angreifen (Aufmerksamkeit −1).
+Der Testbuild hat eigene Spielstände (metro_spielstand_metroplan.json, spielstaende_metroplan)
+und spielt nur mit anderen Metroplan-Spielern zusammen. Er wird über das Auto-Update
+mitgeliefert und aktuell gehalten (eigene Liste manifest-metroplan.json).
+
 PAKETINHALT
 metro_karten.json  Spielwerte und Karten.
+Kekish Subway Survivors Metroplan.exe  Testbuild mit variablem Metroplan.
 musik             Hintergrundmusik.
 sounds            Alle verwendeten Effekte und die Menüatmosphäre.
 videos            Beide Intro-Videos.
