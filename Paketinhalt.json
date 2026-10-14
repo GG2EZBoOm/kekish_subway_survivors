@@ -1,6 +1,6 @@
 {
   "spiel": "Kekish Subway Survivors",
-  "version": "1.0.36",
+  "version": "1.0.50",
   "inhalt": {
     "effekte": 84,
     "musik": 7,
@@ -10,8 +10,8 @@
   "dateien": [
     {
       "datei": "Kekish Subway Survivors.exe",
-      "bytes": 2325504,
-      "sha256": "6c8832c3ef8762421440770a835a6e72a511e945b316115906e4356f83527660"
+      "bytes": 2428416,
+      "sha256": "c1f6a91d1cebf049c9c2d3f38ff5c9778b9f17f57c7af967c882389b1fa0050f"
     },
     {
       "datei": "LICENSE.txt",
@@ -20,8 +20,8 @@
     },
     {
       "datei": "LIESMICH.txt",
-      "bytes": 7189,
-      "sha256": "dc4529dddb72942d95fb88a00f563a79b971defa1fcf4fc7c4c1f81dc38884b2"
+      "bytes": 7563,
+      "sha256": "ec2a1b7f0b1791ee5b9c3ae54dad92f324395613b3160503e92a04c31229d08a"
     },
     {
       "datei": "Lizenzen/nlohmann-json-LICENSE.MIT",
@@ -495,8 +495,8 @@
     },
     {
       "datei": "sprachen/en.json",
-      "bytes": 96574,
-      "sha256": "3340bf52dc72a20ba5f9d126af652d349b0806107d135ed6cf4b0c6a77d25334"
+      "bytes": 100081,
+      "sha256": "fcbc95738de7d80af302410c603bb3aec9b437a066a92c13eae3b25f9ea2fb8a"
     },
     {
       "datei": "videos/01_Kek_Engine.mp4",
