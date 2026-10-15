@@ -41,7 +41,10 @@ Alle spielen gleichzeitig in drei Phasen:
   2 Expedition: erkunden, kämpfen, Hinterhalte und Stationsangriffe.
   3 Invasion: Invasionskarten und Nuke.
 Wer fertig ist, klickt auf „Phase beenden“ oder drückt die Leertaste.
-Die vollständige Anleitung ist im Spiel über F1 erreichbar.
+Die Kurzanleitung ist im Spiel über F1 erreichbar, das ausführliche Handbuch über H,
+den Knopf „?“ oben rechts oder „Handbuch“ im Hauptmenü: Kapitel mit Bildern aus dem Spiel,
+Suche (/), Spickzettel, Lesefortschritt und ein Lexikon aller Kreaturen, Waffen, Karten,
+Gebäude, Orte und Hanse-Aufträge.
 
 BEDIENUNG
 Einheiten anklicken, dann ein erlaubtes Ziel: Zone, Basis, Vorbereitung oder Ausgang.
@@ -59,6 +62,7 @@ in Basis oder Vorbereitung ziehen.
   Leertaste: Phase beenden       Enter: Kämpfen / Weiter
   Rechtsklick: Auswahl aufheben  Esc: Menü
   F1: Anleitung                 F11: Vollbild
+  H: Handbuch (Enzyklopädie mit Suche, Spickzettel und Lexikon)
   M: Ton an/aus                 Mausrad: blättern
 Im Kampf springen „Alles zeigen“, Enter oder Leertaste zum Ergebnis.
 Stationsangriffe zeigen den befestigten Eingang, die Angreifer und die Verteidigung.
