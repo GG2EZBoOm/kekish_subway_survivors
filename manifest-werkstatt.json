@@ -1,0 +1,12 @@
+{
+  "format": "kekish-subway-windows-v1",
+  "platform": "windows-x86_64",
+  "version": "1.0.61",
+  "build_id": "780228b82febe244224abd63529617bb3887b58a3734a03dfd3823f5eb557142",
+  "files": {
+    "Kekish Kartenwerkstatt.exe": {
+      "bytes": 2865152,
+      "sha256": "cafac6317eeb84d6c79d3ace116fb5aaf34a76a9ac2f005dd0acb10ab69174db"
+    }
+  }
+}

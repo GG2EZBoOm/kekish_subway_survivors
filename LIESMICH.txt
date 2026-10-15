@@ -129,9 +129,21 @@ Der Testbuild hat eigene Spielstände (metro_spielstand_metroplan.json, spielsta
 und spielt nur mit anderen Metroplan-Spielern zusammen. Er wird über das Auto-Update
 mitgeliefert und aktuell gehalten (eigene Liste manifest-metroplan.json).
 
+KARTENWERKSTATT (Karteneditor)
+„Kekish Kartenwerkstatt.exe“ im Spielordner erstellt neue Karten: Kartenart (Waffe, Rüstung,
+Ausrüstung, Aktionskarte, Loot, Ereignis, Invasion), Name, Effekt und Werte eingeben und
+festlegen, wo die Karte liegt (Beutestapel der Zonen, Gefahrenstapel, Hanse). Das Motiv zeichnet
+derselbe Metro-Zeichner wie im Spiel – passend zu Art, Werten und Stichworten im Namen, auf
+Wunsch selbst wählbar. Wählbar sind nur Effekte, die die Spielregeln bereits kennen.
+Speichern (Strg+S) legt die Karte in eigene_karten.json ab; das Spiel mischt sie beim Start in
+den Katalog, Updates ersetzen diese Datei nie. Im Netzwerkspiel gelten die Karten des Hosts.
+Neue Karten sind ab dem nächsten neuen Spiel dabei; das Motiv liegt zusätzlich als PNG in
+grafik/karten. Unter „Eigene Karten“ lassen sie sich bearbeiten oder löschen.
+
 PAKETINHALT
 metro_karten.json  Spielwerte und Karten.
 Kekish Subway Survivors Metroplan.exe  Testbuild mit variablem Metroplan.
+Kekish Kartenwerkstatt.exe  Editor für eigene Karten (siehe oben).
 musik             Hintergrundmusik.
 sounds            Alle verwendeten Effekte und die Menüatmosphäre.
 videos            Beide Intro-Videos.
