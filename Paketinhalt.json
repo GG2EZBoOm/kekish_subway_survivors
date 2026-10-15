@@ -1,6 +1,6 @@
 {
   "spiel": "Kekish Subway Survivors",
-  "version": "1.0.56",
+  "version": "1.0.60",
   "inhalt": {
     "effekte": 84,
     "musik": 7,
@@ -10,8 +10,8 @@
   "dateien": [
     {
       "datei": "Kekish Subway Survivors.exe",
-      "bytes": 2662400,
-      "sha256": "61b2a60c1138b74ecdf2f4751d3657acd9a16b1b333a3bacc19999371210b36f"
+      "bytes": 2855936,
+      "sha256": "c7657e0ab27a0d660d7ffed733f793dddfe0af0d7b3a1fbd4f35e14fda7210c6"
     },
     {
       "datei": "LICENSE.txt",
@@ -515,8 +515,8 @@
     },
     {
       "datei": "Kekish Subway Survivors Metroplan.exe",
-      "bytes": 2665984,
-      "sha256": "52058a773ff69e17558abc4471177b57371e3c700db374707cab5031b02df075"
+      "bytes": 2860032,
+      "sha256": "5f8417f71bfc8d63b685b70ccfde351955483e14cda713c3cad66e225c98de63"
     }
   ]
 }

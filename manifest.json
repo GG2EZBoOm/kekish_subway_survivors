@@ -1,12 +1,12 @@
 {
   "format": "kekish-subway-windows-v1",
   "platform": "windows-x86_64",
-  "version": "1.0.56",
-  "build_id": "62cb6526fea9942218c846a533aa43b10212768e80a04d6f0aab4b3fc08ea415",
+  "version": "1.0.60",
+  "build_id": "c257f42b43d44df80a004adf314c270e830791558457890424433b7fad4513cd",
   "files": {
     "Kekish Subway Survivors.exe": {
-      "bytes": 2662400,
-      "sha256": "61b2a60c1138b74ecdf2f4751d3657acd9a16b1b333a3bacc19999371210b36f"
+      "bytes": 2855936,
+      "sha256": "c7657e0ab27a0d660d7ffed733f793dddfe0af0d7b3a1fbd4f35e14fda7210c6"
     },
     "LICENSE.txt": {
       "bytes": 3403,
@@ -22,7 +22,7 @@
     },
     "Paketinhalt.json": {
       "bytes": 17040,
-      "sha256": "190b104885d4cd49ac419b825b890205fad75be505e8a2273eb0f7dc4cf991c9"
+      "sha256": "52553ce42398eb46b6673c1c81c11096181ed70a64294a1b44941ba976cbae6a"
     },
     "metro_karten.json": {
       "bytes": 31766,
